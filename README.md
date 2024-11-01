@@ -1,0 +1,1 @@
+This repository is a daily log of my Python learning journey, featuring code snippets, exercises, and mini-projects organized by day. Each folder includes Python basics, algorithms, data structures, and small projects. Coding daily helps me reinforce learning, track progress, and build a portfolio of Python skills.
